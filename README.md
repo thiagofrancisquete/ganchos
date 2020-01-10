@@ -8,7 +8,7 @@ Use `npm install` to install the dependencies
 
 ### Step 2: Change the component rendering on src/App.js file
 
-```javascript=
+```Javascript
 function App() {
 
   return (
